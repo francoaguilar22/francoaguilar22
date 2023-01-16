@@ -2,7 +2,7 @@
 <!-- PRESENTACIÓN -->
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
+  <img src="https://banner-github.web.app/img/Blue%20Minimalist%20Game%20Developer%20LinkedIn%20Banner.gif" width="200"/>
     <h1 align="center">Hola 👋 , Soy Jhon Franco</h1>
       <h3 align="center">Tengo 21 años , soy estudiante de la carrera de Administración de sistemas para la transformacion digital y soy desarrollador web como tambien de        apps moviles.</h3>
 </div>
