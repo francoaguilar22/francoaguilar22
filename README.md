@@ -7,6 +7,11 @@
       <h3 align="center">Tengo 21 años , soy estudiante de la carrera de Administración de sistemas para la transformacion digital y soy desarrollador web como tambien de        apps moviles.</h3>
 </div>
 
+
+<div align="center">
+        <img src="https://img.shields.io/github/watchers/francoaguilar22/francoaguilar22?label=Views&style=social" alt="">
+</div>
+
 <!-- REDES SOCIALES -->
 
 <div align="center">
