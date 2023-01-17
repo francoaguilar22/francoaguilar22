@@ -2,7 +2,7 @@
 <!-- PRESENTACIÓN -->
 
 <div id="header" align="center">
-  <img src="https://github.com/francoaguilar22/Verano2023/blob/main/Web/Css/Practicas/Redme/img/banner-gif.gif">
+  <img src="https://github.com/francoaguilar22/Verano2023/blob/main/Web/Css/Practicas/Readme/img/banner-gif.gif">
     <h1 align="center">Hola 👋 , Soy Jhon Franco</h1>
       <h3 align="center">Tengo 21 años , soy estudiante de la carrera de Administración de sistemas para la transformacion digital y soy desarrollador web como tambien de        apps moviles.</h3>
 </div>
